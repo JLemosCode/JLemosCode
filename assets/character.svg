@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 390" role="img">
+<defs>
+ <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0C0C16"/><stop offset="1" stop-color="#171022"/></linearGradient>
+ <linearGradient id="bar" x1="0" x2="1"><stop stop-color="#FF3CAC"/><stop offset="1" stop-color="#8B5CF6"/></linearGradient>
+ <filter id="glow"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect x="2" y="2" width="1196" height="386" rx="22" fill="url(#panel)" stroke="#8B5CF6" stroke-opacity=".45"/>
+<text x="35" y="42" fill="#FF3CAC" font-family="monospace" font-size="14">CHARACTER PROFILE // DEVELOPER CLASS</text>
+
+<rect x="35" y="67" width="245" height="275" rx="18" fill="#090910" stroke="#FF3CAC" stroke-opacity=".6"/>
+<circle cx="157" cy="143" r="68" fill="#161020" stroke="#FF3CAC" stroke-width="3" filter="url(#glow)"/>
+<text x="157" y="153" text-anchor="middle" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="36" font-weight="700">JL</text>
+<text x="157" y="235" text-anchor="middle" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="22" font-weight="700">JORGE LEMOS</text>
+<text x="157" y="260" text-anchor="middle" fill="#FF3CAC" font-family="monospace" font-size="12">FULL STACK / FRONTEND</text>
+<text x="157" y="292" text-anchor="middle" fill="#9E97AA" font-family="monospace" font-size="11">18+ YEARS EXPERIENCE</text>
+<text x="157" y="318" text-anchor="middle" fill="#39FF88" font-family="monospace" font-size="11">● OPEN TO WORK</text>
+
+<text x="325" y="80" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="22" font-weight="700">ATTRIBUTES</text>
+
+<text x="325" y="120" fill="#CFC8D8" font-family="monospace" font-size="13">FRONTEND</text>
+<rect x="445" y="108" width="300" height="18" rx="9" fill="#21152D"/><rect x="445" y="108" width="276" height="18" rx="9" fill="url(#bar)" filter="url(#glow)"/><text x="765" y="122" fill="#FF3CAC" font-family="monospace" font-size="12">92%</text>
+
+<text x="325" y="165" fill="#CFC8D8" font-family="monospace" font-size="13">BACKEND</text>
+<rect x="445" y="153" width="300" height="18" rx="9" fill="#21152D"/><rect x="445" y="153" width="258" height="18" rx="9" fill="url(#bar)"/><text x="765" y="167" fill="#FF3CAC" font-family="monospace" font-size="12">86%</text>
+
+<text x="325" y="210" fill="#CFC8D8" font-family="monospace" font-size="13">DEVOPS</text>
+<rect x="445" y="198" width="300" height="18" rx="9" fill="#21152D"/><rect x="445" y="198" width="234" height="18" rx="9" fill="url(#bar)"/><text x="765" y="212" fill="#FF3CAC" font-family="monospace" font-size="12">78%</text>
+
+<text x="325" y="255" fill="#CFC8D8" font-family="monospace" font-size="13">ARCHITECTURE</text>
+<rect x="445" y="243" width="300" height="18" rx="9" fill="#21152D"/><rect x="445" y="243" width="255" height="18" rx="9" fill="url(#bar)"/><text x="765" y="257" fill="#FF3CAC" font-family="monospace" font-size="12">85%</text>
+
+<text x="325" y="300" fill="#CFC8D8" font-family="monospace" font-size="13">PRODUCT / UX</text>
+<rect x="445" y="288" width="300" height="18" rx="9" fill="#21152D"/><rect x="445" y="288" width="246" height="18" rx="9" fill="url(#bar)"/><text x="765" y="302" fill="#FF3CAC" font-family="monospace" font-size="12">82%</text>
+
+<rect x="805" y="67" width="360" height="275" rx="18" fill="#090910" stroke="#8B5CF6" stroke-opacity=".6"/>
+<text x="835" y="105" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="21" font-weight="700">CLASS LOADOUT</text>
+<text x="835" y="138" fill="#FF3CAC" font-family="monospace" font-size="12">PRIMARY</text>
+<text x="835" y="163" fill="#D7D1E4" font-family="monospace" font-size="13">React · TypeScript · Next.js</text>
+<text x="835" y="197" fill="#FF3CAC" font-family="monospace" font-size="12">BACKEND</text>
+<text x="835" y="222" fill="#D7D1E4" font-family="monospace" font-size="13">Node.js · NestJS · PHP · .NET</text>
+<text x="835" y="256" fill="#FF3CAC" font-family="monospace" font-size="12">INFRA</text>
+<text x="835" y="281" fill="#D7D1E4" font-family="monospace" font-size="13">Docker · Azure · CI/CD · Git</text>
+<text x="835" y="315" fill="#FF3CAC" font-family="monospace" font-size="12">SPECIAL</text>
+<text x="835" y="335" fill="#D7D1E4" font-family="monospace" font-size="12">Microservices · REST · AI</text>
+</svg>

@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 360" role="img">
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#090910"/><stop offset="1" stop-color="#140B20"/></linearGradient>
+ <linearGradient id="accent" x1="0" x2="1"><stop stop-color="#FF3CAC"/><stop offset="1" stop-color="#8B5CF6"/></linearGradient>
+</defs>
+<rect x="2" y="2" width="1196" height="356" rx="22" fill="url(#bg)" stroke="#FF3CAC" stroke-opacity=".45"/>
+<text x="35" y="43" fill="#FF3CAC" font-family="monospace" font-size="14">TECH TREE // UNLOCKED SKILLS</text>
+
+<g font-family="monospace" font-size="12" fill="#D7D1E4">
+ <rect x="35" y="70" width="1130" height="62" rx="14" fill="#0E0E18" stroke="#8B5CF6" stroke-opacity=".4"/>
+ <text x="58" y="94" fill="#FF3CAC">FRONTEND</text>
+ <text x="180" y="94">Angular</text><text x="280" y="94">React</text><text x="365" y="94">Next.js</text><text x="470" y="94">TypeScript</text><text x="590" y="94">JavaScript</text><text x="700" y="94">Tailwind</text><text x="800" y="94">Bootstrap</text><text x="915" y="94">jQuery</text><text x="1000" y="94">Razor</text><text x="1070" y="94">Figma</text>
+ <text x="180" y="115" fill="#8B5CF6">●</text><text x="280" y="115" fill="#8B5CF6">●</text><text x="365" y="115" fill="#8B5CF6">●</text><text x="470" y="115" fill="#8B5CF6">●</text><text x="590" y="115" fill="#8B5CF6">●</text><text x="700" y="115" fill="#8B5CF6">●</text><text x="800" y="115" fill="#8B5CF6">●</text>
+
+ <rect x="35" y="145" width="1130" height="62" rx="14" fill="#0E0E18" stroke="#8B5CF6" stroke-opacity=".4"/>
+ <text x="58" y="169" fill="#FF3CAC">BACKEND</text>
+ <text x="180" y="169">Node.js</text><text x="280" y="169">NestJS</text><text x="380" y="169">PHP</text><text x="450" y="169">Laravel</text><text x="550" y="169">C#</text><text x="620" y="169">.NET</text><text x="700" y="169">Python</text><text x="790" y="169">Java</text><text x="860" y="169">SQL</text>
+ <text x="180" y="190" fill="#8B5CF6">●</text><text x="280" y="190" fill="#8B5CF6">●</text><text x="380" y="190" fill="#8B5CF6">●</text><text x="450" y="190" fill="#8B5CF6">●</text><text x="550" y="190" fill="#8B5CF6">●</text><text x="620" y="190" fill="#8B5CF6">●</text>
+
+ <rect x="35" y="220" width="1130" height="62" rx="14" fill="#0E0E18" stroke="#8B5CF6" stroke-opacity=".4"/>
+ <text x="58" y="244" fill="#FF3CAC">DEVOPS</text>
+ <text x="180" y="244">Docker</text><text x="270" y="244">CI/CD</text><text x="360" y="244">Azure</text><text x="440" y="244">Jira</text><text x="510" y="244">Git</text>
+ <text x="180" y="265" fill="#8B5CF6">●</text><text x="270" y="265" fill="#8B5CF6">●</text><text x="360" y="265" fill="#8B5CF6">●</text>
+
+ <rect x="35" y="295" width="1130" height="40" rx="14" fill="#0E0E18" stroke="#8B5CF6" stroke-opacity=".4"/>
+ <text x="58" y="320" fill="#FF3CAC">AI & PRODUCT</text>
+ <text x="180" y="320">Generative AI</text><text x="310" y="320">OpenAI</text><text x="390" y="320">Design</text><text x="470" y="320">SaaS</text><text x="540" y="320">ERP</text><text x="610" y="320">Microservices</text><text x="760" y="320">REST APIs</text>
+</g>
+</svg>
