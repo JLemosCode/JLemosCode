@@ -43,75 +43,6 @@ Minha atuação vai do **frontend ao backend**, transformando requisitos de neg�
 
 ---
 
-## 🧩 O que eu faço
-
-<table>
-<tr>
-<td width="50%">
-
-### 🎨 Frontend & UI
-
-Interfaces modernas, responsivas e focadas em experiência do usuário.
-
-**React · Angular · Next.js · TypeScript · Tailwind · Bootstrap**
-
-</td>
-<td width="50%">
-
-### ⚙️ Full Stack
-
-Desenvolvimento completo, do layout ao deploy, conectando todas as camadas.
-
-**Node.js · NestJS · PHP · Laravel · C# · .NET**
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🏗️ Arquitetura
-
-Construção de sistemas escaláveis e arquiteturas orientadas a serviços.
-
-**Microsserviços · APIs REST · SaaS · ERP**
-
-</td>
-<td width="50%">
-
-### 🔗 Integrações
-
-Integração de sistemas, plataformas e serviços de terceiros.
-
-**ERP · CRM · Pagamentos · APIs · Serviços externos**
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🤖 IA aplicada
-
-Aplicação de inteligência artificial em produtos e fluxos reais.
-
-**IA Generativa · OpenAI · Automação**
-
-</td>
-<td width="50%">
-
-### 🚀 DevOps
-
-Automação, ambientes e entrega contínua de aplicações.
-
-**Docker · CI/CD · Azure · Git**
-
-</td>
-</tr>
-</table>
-
----
-
 ## 🛠️ Tech Stack
 
 ### Frontend
@@ -161,38 +92,7 @@ Automação, ambientes e entrega contínua de aplicações.
 </p>
 
 ---
-
-## 💼 Experiência
-
-### 🟢 Atualmente · JL Lemos Digital
-
-**Desenvolvedor Full Stack Sênior | Especialista em Frontend**
-
-Construção e evolução de aplicações web e produtos digitais com foco em:
-
-* Escalabilidade
-* Performance
-* Experiência do usuário
-* Integração entre sistemas
-* Qualidade de código
-* Evolução contínua do produto
-
-### 🔵 2018 — 2023 · Ratto Software
-
-**Desenvolvedor Full Stack Sênior | Team Leader**
-
-Liderança técnica e desenvolvimento Full Stack em projetos do segmento de seguros, conduzindo evolução arquitetural e entregas contínuas durante mais de 5 anos.
-
-### 🟣 2017 — 2018 · Prosolution Consultoria
-
-**Analista de Sistemas**
-
-Atuação na integração e evolução de sistemas para Juntas Comerciais estaduais.
-
-**RJ · BA · SC**
-
----
-
+ 
 ## 🧠 Como eu penso desenvolvimento
 
 ```text
