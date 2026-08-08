@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Olá, eu sou Jorge Lemos
+# 👋 Olá,
 
 ### Full Stack Developer · Frontend Specialist · Software Architect
 
