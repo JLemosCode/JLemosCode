@@ -1,1 +1,142 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="420" height="46"><rect x="1" y="1" width="418" height="44" rx="8" fill="#111315" stroke="#aaa"/><text x="210" y="29" text-anchor="middle" fill="#eee" font-family="monospace" font-size="13">OPEN PORTFOLIO  //  portfolio.jlemos.digital</text><rect x="382" y="15" width="8" height="16" fill="#eee"><animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/></rect></svg>
+<svg width="700" height="260"
+  viewBox="0 0 700 260"
+  xmlns="http://www.w3.org/2000/svg">
+
+<rect width="700"
+   height="260"
+   rx="6"
+   fill="#090b09"/>
+
+<text x="30"
+   y="40"
+   fill="#737b72"
+   font-family="monospace"
+   font-size="14">
+
+```
+// GITHUB SYSTEM
+```
+
+</text>
+
+<text x="30"
+   y="85"
+   fill="#555d55"
+   font-family="monospace"
+   font-size="14">
+
+```
+CONTRIBUTIONS
+```
+
+</text>
+
+<text x="280"
+   y="85"
+   fill="#aeb6ac"
+   font-family="monospace"
+   font-size="14">
+
+```
+--
+```
+
+</text>
+
+<text x="30"
+   y="120"
+   fill="#555d55"
+   font-family="monospace"
+   font-size="14">
+
+```
+REPOSITORIES
+```
+
+</text>
+
+<text x="280"
+   y="120"
+   fill="#aeb6ac"
+   font-family="monospace"
+   font-size="14">
+
+```
+--
+```
+
+</text>
+
+<text x="30"
+   y="155"
+   fill="#555d55"
+   font-family="monospace"
+   font-size="14">
+
+```
+FOLLOWERS
+```
+
+</text>
+
+<text x="280"
+   y="155"
+   fill="#aeb6ac"
+   font-family="monospace"
+   font-size="14">
+
+```
+--
+```
+
+</text>
+
+<text x="30"
+   y="190"
+   fill="#555d55"
+   font-family="monospace"
+   font-size="14">
+
+```
+FOLLOWING
+```
+
+</text>
+
+<text x="280"
+   y="190"
+   fill="#aeb6ac"
+   font-family="monospace"
+   font-size="14">
+
+```
+--
+```
+
+</text>
+
+<text x="30"
+   y="225"
+   fill="#555d55"
+   font-family="monospace"
+   font-size="14">
+
+```
+STARS
+```
+
+</text>
+
+<text x="280"
+   y="225"
+   fill="#aeb6ac"
+   font-family="monospace"
+   font-size="14">
+
+```
+--
+```
+
+</text>
+
+</svg>
