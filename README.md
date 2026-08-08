@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/hero.svg" alt="Jorge Lemos - Developer Leveling System" width="100%">
+<img src="./assets/boot.svg" width="100%" alt="JLemosCode retro developer terminal">
 
 </div>
 
@@ -8,138 +8,135 @@
 
 <div align="center">
 
-<a href="https://portfolio.jlemos.digital/">
-  <img src="https://img.shields.io/badge/PORTFÓLIO-0B0B12?style=for-the-badge&logo=googlechrome&logoColor=FF3CAC&labelColor=0B0B12" />
-</a>
-<a href="https://www.linkedin.com/in/lemosjorge">
-  <img src="https://img.shields.io/badge/LINKEDIN-0B0B12?style=for-the-badge&logo=linkedin&logoColor=00A0DC&labelColor=0B0B12" />
-</a>
-<a href="https://github.com/JLemosCode">
-  <img src="https://img.shields.io/badge/GITHUB-0B0B12?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=0B0B12" />
-</a>
-<a href="mailto:jlemos.digital@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-0B0B12?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=0B0B12" />
-</a>
+<a href="https://portfolio.jlemos.digital/"><img src="./assets/button-portfolio.svg" height="34" alt="Portfolio"></a>
+&nbsp;
+<a href="https://github.com/JLemosCode"><img src="./assets/button-github.svg" height="34" alt="GitHub"></a>
+&nbsp;
+<a href="https://www.linkedin.com/"><img src="./assets/button-linkedin.svg" height="34" alt="LinkedIn"></a>
 
 </div>
 
----
+<br>
 
 <div align="center">
 
-<img src="./assets/character.svg" alt="Developer character sheet" width="100%">
+<img src="./assets/terminal.svg" width="100%" alt="Developer terminal">
 
 </div>
 
-## ⚔️ QUEST LOG
-
-> O objetivo não é escrever mais código. É transformar requisitos de negócio em soluções técnicas eficientes, escaláveis e sustentáveis.
-
-| Status | Quest | Resultado |
-|:---:|---|---|
-| 🟢 | Frontend & UI | Interfaces modernas, responsivas e com microinterações |
-| 🟢 | Full Stack | Do layout ao deploy, conectando as camadas |
-| 🟢 | Architecture | Microsserviços, APIs REST e sistemas escaláveis |
-| 🟢 | Integrations | ERP, CRM, pagamentos e serviços de terceiros |
-| 🟢 | AI Applied | Recursos de IA integrados a produtos reais |
-| 🔥 | Open to Work | Projetos e oportunidades |
-
----
-
-<div align="center">
-
-<img src="./assets/tech-tree.svg" alt="Technology tree" width="100%">
-
-</div>
-
-## 🎮 RECENT PROJECTS
-
-O portfólio atual destaca **PUBG BattleHub**, **Marketplace** e **AvaliadIN** como projetos recentes.
-
-<div align="center">
-
-<a href="https://portfolio.jlemos.digital/">
-  <img src="https://img.shields.io/badge/01%20PUBG%20BATTLEHUB-VIEW%20PROJECT-181024?style=for-the-badge&logo=googlechrome&logoColor=FF3CAC" />
-</a>
-<a href="https://portfolio.jlemos.digital/">
-  <img src="https://img.shields.io/badge/02%20MARKETPLACE-VIEW%20PROJECT-181024?style=for-the-badge&logo=googlechrome&logoColor=FF3CAC" />
-</a>
-<a href="https://portfolio.jlemos.digital/">
-  <img src="https://img.shields.io/badge/03%20AVALIADIN-VIEW%20PROJECT-181024?style=for-the-badge&logo=googlechrome&logoColor=FF3CAC" />
-</a>
-
-</div>
-
----
-
-## 🧠 PROFILE
-
-Desenvolvedor Full Stack especializado em sistemas web escaláveis, SaaS, ERP e arquiteturas baseadas em microsserviços. Foco em performance, integração de sistemas e entrega de produtos robustos em produção, atuando do frontend ao backend.
-
-### Career
-
-- **Atual — JL Lemos Digital LTDA** — Desenvolvedor Full Stack | Especialista em Frontend.
-- **2018 — 2023 — Ratto Software** — Desenvolvedor Full Stack Sênior | Team Leader.
-- **2017 — 2018 — Prosolution Consultoria** — Analista de Sistemas, com atuação em integração e evolução de sistemas para Juntas Comerciais de RJ, BA e SC.
-
----
-
-<div align="center">
-
-<img src="./assets/achievements.svg" alt="Developer achievements" width="100%">
-
-</div>
-
-## 📊 GITHUB TELEMETRY
-
-<div align="center">
-
-<img src="./assets/activity.svg" alt="GitHub activity telemetry" width="100%">
-
-</div>
-
----
-
-## 🧬 ENGINEERING PRINCIPLES
+## `01 / PROFILE`
 
 ```text
-01  Understand the problem
-02  Model the domain
-03  Design the architecture
-04  Build the smallest useful solution
-05  Test, observe and iterate
-06  Keep the code clean and maintainable
+╭──────────────────────────────────────────────────────────────────────╮
+│ JORGE LEMOS                                                        │
+│ FULL STACK DEVELOPER                                                │
+│                                                                      │
+│ 18+ YEARS OF BUILDING SOFTWARE                                      │
+│ Frontend • Backend • Architecture • Integrations • Product          │
+╰──────────────────────────────────────────────────────────────────────╯
+```
+
+I build web products from interface to infrastructure, with a strong focus on **frontend, full-stack development, APIs, integrations, architecture and maintainable software**.
+
+The current portfolio highlights projects such as **PUBG BattleHub, Marketplace and AvaliadIN**.
+
+---
+
+<div align="center">
+
+<img src="./assets/timeline.svg" width="100%" alt="Career timeline">
+
+</div>
+
+## `02 / STACK DATABASE`
+
+No fake percentages. No skill bars.
+
+The stack is presented as a **retro terminal inventory**, grouped by the role each technology plays.
+
+<div align="center">
+
+<img src="./assets/stack.svg" width="100%" alt="Technology inventory">
+
+</div>
+
+---
+
+## `03 / QUESTS`
+
+```text
+[COMPLETED]
+
+  ✓ Build and maintain production web systems
+  ✓ Work across frontend and backend
+  ✓ Design and consume REST APIs
+  ✓ Integrate external platforms and services
+  ✓ Work with relational and NoSQL databases
+  ✓ Containerize applications with Docker
+  ✓ Lead and collaborate on software delivery
+
+[CURRENT]
+
+  → Keep evolving modern frontend architecture
+  → Explore practical AI integrations
+  → Build products with better UX and stronger engineering
 ```
 
 ---
 
-## 💬 WHAT I BRING
+<div align="center">
 
-- Performance-oriented development
-- Clean and maintainable code
-- Continuous learning
-- Full Stack ownership
-- Product thinking
-- Architecture and integrations
+<img src="./assets/projects.svg" width="100%" alt="Selected projects">
 
-Esses pontos refletem o posicionamento apresentado no meu portfólio.
+</div>
+
+---
+
+## `04 / ENGINEERING MODE`
+
+```text
+$ cat /etc/developer.conf
+
+MODE        = PRODUCT + ENGINEERING
+PRIORITY    = SOLVE_THE_PROBLEM
+STYLE       = CLEAN / PRAGMATIC / MAINTAINABLE
+FRONTEND    = REACT / TYPESCRIPT
+BACKEND     = NODE / PHP / .NET
+DATA        = SQL / MONGODB
+INFRA       = DOCKER / AZURE
+DESIGN      = UX / PROTOTYPING
+VERSIONING  = GIT
+```
 
 ---
 
 <div align="center">
 
-### `READY FOR THE NEXT QUEST?`
+<img src="./assets/activity.svg" width="100%" alt="GitHub activity monitor">
+
+</div>
+
+## `05 / CONTACT`
+
+```text
+┌─────────────────────────────────────────────────────────────┐
+│  SYSTEM MESSAGE                                            │
+│                                                             │
+│  Looking for a developer who can understand the product,   │
+│  work across the stack and turn requirements into software? │
+│                                                             │
+│  > open portfolio                                           │
+└─────────────────────────────────────────────────────────────┘
+```
+
+<div align="center">
 
 <a href="https://portfolio.jlemos.digital/">
-  <img src="https://img.shields.io/badge/🌐%20PORTFÓLIO-FF3CAC?style=for-the-badge&labelColor=0B0B12&color=FF3CAC" />
-</a>
-
-<a href="mailto:jlemos.digital@gmail.com">
-  <img src="https://img.shields.io/badge/✉%20CONTATO-FF3CAC?style=for-the-badge&labelColor=0B0B12&color=FF3CAC" />
+<img src="./assets/contact.svg" width="420" alt="Open portfolio">
 </a>
 
 <br><br>
 
-<sub>Developer Leveling System · Generated from GitHub activity · JLemosCode</sub>
+<sub>JLemosCode // Developer Terminal // GitHub Profile</sub>
 
 </div>

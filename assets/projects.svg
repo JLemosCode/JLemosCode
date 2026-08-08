@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300">
+<defs><style>
+@keyframes blink{0%,45%{opacity:1}46%,100%{opacity:0}}
+.t{font-family:monospace;fill:#d4d4d4}.dim{fill:#777}.border{fill:#0d0f11;stroke:#505357}
+</style></defs>
+<rect x="2" y="2" width="1196" height="296" rx="16" fill="#101214" stroke="#4d4f52"/>
+<text x="35" y="40" class="t" font-size="13">PROJECTS // SELECTED BUILDS</text>
+
+<g transform="translate(35 65)">
+<rect width="350" height="190" rx="10" class="border"/>
+<text x="20" y="32" class="dim" font-size="11">QUEST 01</text>
+<text x="20" y="66" class="t" font-size="21">PUBG BATTLEHUB</text>
+<text x="20" y="95" class="dim" font-size="11">gaming / data / platform</text>
+<text x="20" y="128" class="t" font-size="12">[████████████████████]</text>
+<text x="20" y="151" class="dim" font-size="10">VIEW PROJECT → portfolio</text>
+</g>
+
+<g transform="translate(425 65)">
+<rect width="350" height="190" rx="10" class="border"/>
+<text x="20" y="32" class="dim" font-size="11">QUEST 02</text>
+<text x="20" y="66" class="t" font-size="21">MARKETPLACE</text>
+<text x="20" y="95" class="dim" font-size="11">commerce / product / web</text>
+<text x="20" y="128" class="t" font-size="12">[████████████████████]</text>
+<text x="20" y="151" class="dim" font-size="10">VIEW PROJECT → portfolio</text>
+</g>
+
+<g transform="translate(815 65)">
+<rect width="350" height="190" rx="10" class="border"/>
+<text x="20" y="32" class="dim" font-size="11">QUEST 03</text>
+<text x="20" y="66" class="t" font-size="21">AVALIADIN</text>
+<text x="20" y="95" class="dim" font-size="11">platform / product / web</text>
+<text x="20" y="128" class="t" font-size="12">[████████████████████]</text>
+<text x="20" y="151" class="dim" font-size="10">VIEW PROJECT → portfolio</text>
+</g>
+</svg>

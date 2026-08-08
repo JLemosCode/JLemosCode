@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 410">
+<defs>
+<style>
+@keyframes type{from{opacity:0}to{opacity:1}}
+@keyframes blink{0%,45%{opacity:1}46%,100%{opacity:0}}
+@keyframes scan{from{transform:translateY(-410px)}to{transform:translateY(410px)}}
+.t{font-family:monospace;fill:#d2d2d2}.dim{fill:#777}.bright{fill:#f4f4f4}.muted{fill:#a5a5a5}
+</style>
+<linearGradient id="bg" x2="0" y2="1"><stop stop-color="#0a0b0d"/><stop offset="1" stop-color="#17191c"/></linearGradient>
+<pattern id="scan" width="4" height="8" patternUnits="userSpaceOnUse"><path d="M0 0H4" stroke="#fff" opacity=".035"/></pattern>
+</defs>
+<rect x="2" y="2" width="1196" height="406" rx="16" fill="url(#bg)" stroke="#4d4f52"/>
+<rect x="3" y="3" width="1194" height="404" rx="15" fill="url(#scan)"/>
+<rect x="28" y="28" width="1144" height="354" rx="10" fill="#08090a" stroke="#34373a"/>
+<circle cx="54" cy="51" r="6" fill="#666"/><circle cx="75" cy="51" r="6" fill="#444"/><circle cx="96" cy="51" r="6" fill="#333"/>
+<text x="126" y="56" class="t dim" font-size="12">jlemos@dev-terminal:~</text>
+
+<text x="55" y="94" class="t" font-size="14">$ whoami</text>
+<text x="55" y="119" class="t bright" font-size="16">jorge_lemos</text>
+
+<text x="55" y="154" class="t" font-size="14">$ cat profile.txt</text>
+<text x="55" y="181" class="t muted" font-size="13">Developer focused on building useful software.</text>
+<text x="55" y="203" class="t muted" font-size="13">Frontend is a strong point. Backend is part of the daily toolbox.</text>
+<text x="55" y="225" class="t muted" font-size="13">Architecture, integrations, APIs and product delivery.</text>
+
+<text x="55" y="263" class="t" font-size="14">$ ls ./focus</text>
+<text x="55" y="290" class="t" font-size="13">frontend/</text>
+<text x="170" y="290" class="t" font-size="13">backend/</text>
+<text x="285" y="290" class="t" font-size="13">architecture/</text>
+<text x="450" y="290" class="t" font-size="13">integrations/</text>
+<text x="600" y="290" class="t" font-size="13">product/</text>
+
+<text x="55" y="329" class="t" font-size="14">$ ./next-quest.sh</text>
+<text x="220" y="329" class="t bright" font-size="14">BUILD SOMETHING BETTER</text>
+<text x="55" y="356" class="t dim" font-size="12">ready</text><text x="102" y="356" class="t bright" font-size="13">█</text>
+<rect x="102" y="344" width="8" height="17" fill="#ddd"><animate attributeName="opacity" values="1;0;1" dur=".9s" repeatCount="indefinite"/></rect>
+</svg>

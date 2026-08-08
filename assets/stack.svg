@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 390">
+<defs><style>
+@keyframes blink{0%,45%{opacity:1}46%,100%{opacity:0}}
+.t{font-family:monospace;fill:#d4d4d4}.dim{fill:#777}.tag{fill:#17191c;stroke:#4b4e52}
+</style></defs>
+<rect x="2" y="2" width="1196" height="386" rx="16" fill="#101214" stroke="#4d4f52"/>
+<text x="35" y="40" class="t" font-size="13">/usr/local/bin/stack --list --grouped</text>
+<text x="35" y="72" class="dim" font-size="11">inventory loaded: 27+ technologies / tools / concepts</text>
+
+<g font-family="monospace" font-size="12">
+<text x="45" y="110" class="t">01 FRONTEND</text>
+<g transform="translate(180 91)"><rect width="85" height="30" rx="6" class="tag"/><text x="42" y="20" text-anchor="middle" class="t">React</text></g>
+<g transform="translate(275 91)"><rect width="105" height="30" rx="6" class="tag"/><text x="52" y="20" text-anchor="middle" class="t">TypeScript</text></g>
+<g transform="translate(390 91)"><rect width="85" height="30" rx="6" class="tag"/><text x="42" y="20" text-anchor="middle" class="t">Angular</text></g>
+<g transform="translate(485 91)"><rect width="92" height="30" rx="6" class="tag"/><text x="46" y="20" text-anchor="middle" class="t">Next.js</text></g>
+<g transform="translate(587 91)"><rect width="105" height="30" rx="6" class="tag"/><text x="52" y="20" text-anchor="middle" class="t">JavaScript</text></g>
+<g transform="translate(702 91)"><rect width="85" height="30" rx="6" class="tag"/><text x="42" y="20" text-anchor="middle" class="t">Razor</text></g>
+<g transform="translate(797 91)"><rect width="95" height="30" rx="6" class="tag"/><text x="47" y="20" text-anchor="middle" class="t">Bootstrap</text></g>
+
+<text x="45" y="160" class="t">02 BACKEND</text>
+<g transform="translate(180 141)"><rect width="85" height="30" rx="6" class="tag"/><text x="42" y="20" text-anchor="middle" class="t">Node.js</text></g>
+<g transform="translate(275 141)"><rect width="85" height="30" rx="6" class="tag"/><text x="42" y="20" text-anchor="middle" class="t">NestJS</text></g>
+<g transform="translate(370 141)"><rect width="55" height="30" rx="6" class="tag"/><text x="27" y="20" text-anchor="middle" class="t">PHP</text></g>
+<g transform="translate(435 141)"><rect width="72" height="30" rx="6" class="tag"/><text x="36" y="20" text-anchor="middle" class="t">.NET</text></g>
+<g transform="translate(517 141)"><rect width="55" height="30" rx="6" class="tag"/><text x="27" y="20" text-anchor="middle" class="t">C#</text></g>
+<g transform="translate(582 141)"><rect width="75" height="30" rx="6" class="tag"/><text x="37" y="20" text-anchor="middle" class="t">Python</text></g>
+<g transform="translate(667 141)"><rect width="70" height="30" rx="6" class="tag"/><text x="35" y="20" text-anchor="middle" class="t">Java</text></g>
+
+<text x="45" y="210" class="t">03 DATA</text>
+<g transform="translate(180 191)"><rect width="70" height="30" rx="6" class="tag"/><text x="35" y="20" text-anchor="middle" class="t">SQL</text></g>
+<g transform="translate(260 191)"><rect width="90" height="30" rx="6" class="tag"/><text x="45" y="20" text-anchor="middle" class="t">MySQL</text></g>
+<g transform="translate(360 191)"><rect width="105" height="30" rx="6" class="tag"/><text x="52" y="20" text-anchor="middle" class="t">MongoDB</text></g>
+<g transform="translate(475 191)"><rect width="70" height="30" rx="6" class="tag"/><text x="35" y="20" text-anchor="middle" class="t">PDO</text></g>
+
+<text x="45" y="260" class="t">04 INFRA</text>
+<g transform="translate(180 241)"><rect width="75" height="30" rx="6" class="tag"/><text x="37" y="20" text-anchor="middle" class="t">Docker</text></g>
+<g transform="translate(265 241)"><rect width="65" height="30" rx="6" class="tag"/><text x="32" y="20" text-anchor="middle" class="t">Azure</text></g>
+<g transform="translate(340 241)"><rect width="65" height="30" rx="6" class="tag"/><text x="32" y="20" text-anchor="middle" class="t">Git</text></g>
+<g transform="translate(415 241)"><rect width="70" height="30" rx="6" class="tag"/><text x="35" y="20" text-anchor="middle" class="t">CI/CD</text></g>
+
+<text x="45" y="310" class="t">05 ENGINEERING</text>
+<g transform="translate(180 291)"><rect width="105" height="30" rx="6" class="tag"/><text x="52" y="20" text-anchor="middle" class="t">REST APIs</text></g>
+<g transform="translate(295 291)"><rect width="115" height="30" rx="6" class="tag"/><text x="57" y="20" text-anchor="middle" class="t">Microservices</text></g>
+<g transform="translate(420 291)"><rect width="95" height="30" rx="6" class="tag"/><text x="47" y="20" text-anchor="middle" class="t">UX / UI</text></g>
+<g transform="translate(525 291)"><rect width="90" height="30" rx="6" class="tag"/><text x="45" y="20" text-anchor="middle" class="t">BPM</text></g>
+<g transform="translate(625 291)"><rect width="100" height="30" rx="6" class="tag"/><text x="50" y="20" text-anchor="middle" class="t">AI / LLM</text></g>
+</g>
+<text x="45" y="354" class="dim" font-family="monospace" font-size="11">[no ranking] [no fake score] [tools are tools — context matters]</text>
+</svg>
