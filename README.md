@@ -17,11 +17,6 @@
 <a href="https://github.com/JLemosCode">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=JLemosCode&label=Profile%20Views&color=111827&style=flat" />
-
 </div>
 
 ---
@@ -167,56 +162,6 @@ Automação, ambientes e entrega contínua de aplicações.
 
 ---
 
-## 📌 Projetos em destaque
-
-<table>
-<tr>
-<td width="33%" align="center">
-
-### 🎮 PUBG BattleHub
-
-Plataforma voltada ao ecossistema competitivo de PUBG.
-
-<br>
-
-<a href="https://portfolio.jlemos.digital/">
-  <img src="https://img.shields.io/badge/Ver_projeto-111827?style=for-the-badge" />
-</a>
-
-</td>
-
-<td width="33%" align="center">
-
-### 🛒 Marketplace
-
-Solução para operações de marketplace e experiências digitais.
-
-<br>
-
-<a href="https://portfolio.jlemos.digital/">
-  <img src="https://img.shields.io/badge/Ver_projeto-111827?style=for-the-badge" />
-</a>
-
-</td>
-
-<td width="33%" align="center">
-
-### 📊 AvaliadIN
-
-Projeto focado em avaliação e experiência digital.
-
-<br>
-
-<a href="https://portfolio.jlemos.digital/">
-  <img src="https://img.shields.io/badge/Ver_projeto-111827?style=for-the-badge" />
-</a>
-
-</td>
-</tr>
-</table>
-
----
-
 ## 💼 Experiência
 
 ### 🟢 Atualmente · JL Lemos Digital
@@ -283,35 +228,6 @@ Atuação na integração e evolução de sistemas para Juntas Comerciais estadu
                     │      Produção        │
                     └──────────────────────┘
 ```
-
----
-
-## 📈 Algumas das minhas prioridades
-
-```text
-Performance          ██████████████████░░  92%
-Backend              █████████████████░░░  86%
-DevOps               ████████████████░░░░  78%
-```
-
-> Mais importante que conhecer uma tecnologia é saber **quando, por que e como utilizá-la**.
-
----
-
-## 🎯 Atualmente
-
-Estou aberto a oportunidades e projetos relacionados a:
-
-* Full Stack Development
-* Frontend Engineering
-* React / TypeScript
-* Node.js / NestJS
-* Arquitetura de sistemas
-* APIs e microsserviços
-* SaaS / ERP
-* Integrações
-* IA aplicada a produtos
-* Liderança técnica
 
 ---
 
