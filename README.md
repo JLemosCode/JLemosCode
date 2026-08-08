@@ -36,24 +36,10 @@
 
 </div>
 
----
-
-<div align="center">
-
-<img src="./assets/projects.svg" width="100%" alt="Selected projects">
-
-</div>
-
----
-
 <div align="center">
 
 <a href="https://portfolio.jlemos.digital/">
 <img src="./assets/contact.svg" width="420" alt="Open portfolio">
 </a>
-
-<br><br>
-
-<sub>JLemosCode // Developer Terminal // GitHub Profile</sub>
 
 </div>
